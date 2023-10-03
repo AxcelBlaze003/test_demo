@@ -5,3 +5,5 @@ test branch commit1
 test branch2 commit1
 
 test branch2 commit2
+
+test branch2 commit3
